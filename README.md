@@ -1,2 +1,1 @@
-# tableau-italy
-Visualizing the COVID impact in Italy
+# Visualizing the COVID impact in Italy
